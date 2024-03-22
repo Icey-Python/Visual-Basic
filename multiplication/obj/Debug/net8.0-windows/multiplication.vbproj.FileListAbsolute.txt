@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\multiplication\bin\Debug\net8.0-windows\multiplication.exe
+C:\Users\user\source\repos\multiplication\bin\Debug\net8.0-windows\multiplication.deps.json
+C:\Users\user\source\repos\multiplication\bin\Debug\net8.0-windows\multiplication.runtimeconfig.json
+C:\Users\user\source\repos\multiplication\bin\Debug\net8.0-windows\multiplication.dll
+C:\Users\user\source\repos\multiplication\bin\Debug\net8.0-windows\multiplication.pdb
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.Form1.resources
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.AssemblyInfo.vb
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.dll
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\refint\multiplication.dll
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.pdb
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\multiplication.genruntimeconfig.cache
+C:\Users\user\source\repos\multiplication\obj\Debug\net8.0-windows\ref\multiplication.dll
